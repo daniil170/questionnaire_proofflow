@@ -1,7 +1,7 @@
 /* ===== НАСТРОЙКИ ОТПРАВКИ ===== */
 
 // Google Apps Script: URL веб-приложения
-const SHEETS_URL = "https://script.google.com/macros/s/AKfycbx2oQCy5ecDw95_HteWWcNw1BWnm0YvvRcpRxruyWGWMeT-uFSiem_hF7l7LwRWAFGm/exec";
+const SHEETS_URL = "https://script.google.com/macros/s/AKfycbzZ2ZsMoSP5Gil33iUcQAMfoW1GSe2CTI11AZOB2ui2z0NKG-yNLZrz8h4D5mBL3A_i/exec";
 
 // Web3Forms
 const WEB3FORMS_URL = "https://api.web3forms.com/submit";
